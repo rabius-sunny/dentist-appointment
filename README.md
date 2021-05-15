@@ -6,5 +6,6 @@ This is MERN project for a Dental Appointment service.
 <br />
 <p> Front end created by <code>React</code>
 <p> Back end powered by <code>NodeJs</code> and <code>ExpressJs</code>, Database by MongoDB.
-  <p> Authentication and Hosting Provider by Firebase and Fireauth.
-    <p> Site is live at [ tanjim-dental.web.app ](https://tanjim-dental.web.app/)
+  <p> Authentication and Hosting Provider by Firebase and Fireauth.</p>
+ Site is live at [tanjim-dental.web.app](https://tanjim-dental.web.app)
+ 
